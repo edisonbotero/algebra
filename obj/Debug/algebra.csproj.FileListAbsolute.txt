@@ -1,0 +1,146 @@
+C:\Users\USER\source\repos\algebra\bin\algebra.dll.config
+C:\Users\USER\source\repos\algebra\bin\algebra.dll
+C:\Users\USER\source\repos\algebra\bin\algebra.pdb
+C:\Users\USER\source\repos\algebra\bin\roslyn\csc.exe
+C:\Users\USER\source\repos\algebra\bin\roslyn\csc.exe.config
+C:\Users\USER\source\repos\algebra\bin\roslyn\csc.rsp
+C:\Users\USER\source\repos\algebra\bin\roslyn\csi.exe
+C:\Users\USER\source\repos\algebra\bin\roslyn\csi.exe.config
+C:\Users\USER\source\repos\algebra\bin\roslyn\csi.rsp
+C:\Users\USER\source\repos\algebra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\source\repos\algebra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\source\repos\algebra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\source\repos\algebra\bin\roslyn\System.AppContext.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\System.Console.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\System.IO.Pipes.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\System.Security.Claims.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\source\repos\algebra\bin\roslyn\vbc.exe
+C:\Users\USER\source\repos\algebra\bin\roslyn\vbc.exe.config
+C:\Users\USER\source\repos\algebra\bin\roslyn\vbc.rsp
+C:\Users\USER\source\repos\algebra\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\source\repos\algebra\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\source\repos\algebra\bin\Antlr3.Runtime.dll
+C:\Users\USER\source\repos\algebra\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\USER\source\repos\algebra\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\USER\source\repos\algebra\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\USER\source\repos\algebra\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\USER\source\repos\algebra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\source\repos\algebra\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\USER\source\repos\algebra\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\USER\source\repos\algebra\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\source\repos\algebra\bin\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\algebra\bin\System.Web.Optimization.dll
+C:\Users\USER\source\repos\algebra\bin\WebGrease.dll
+C:\Users\USER\source\repos\algebra\bin\System.Web.Optimization.xml
+C:\Users\USER\source\repos\algebra\bin\Newtonsoft.Json.xml
+C:\Users\USER\source\repos\algebra\bin\Antlr3.Runtime.pdb
+C:\Users\USER\source\repos\algebra\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\USER\source\repos\algebra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\source\repos\algebra\bin\es\System.Web.Optimization.resources.dll
+C:\Users\USER\source\repos\algebra\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\USER\source\repos\algebra\obj\Debug\algebra.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\algebra\obj\Debug\algebra.csproj.CopyComplete
+C:\Users\USER\source\repos\algebra\obj\Debug\algebra.dll
+C:\Users\USER\source\repos\algebra\obj\Debug\algebra.pdb
+C:\Users\USER\source\repos\algebra\obj\Debug\algebra.csproj.CoreCompileInputs.cache
+D:\proyectos visual estudio\algebra\bin\algebra.dll.config
+D:\proyectos visual estudio\algebra\bin\algebra.dll
+D:\proyectos visual estudio\algebra\bin\algebra.pdb
+D:\proyectos visual estudio\algebra\bin\roslyn\csc.exe
+D:\proyectos visual estudio\algebra\bin\roslyn\csc.exe.config
+D:\proyectos visual estudio\algebra\bin\roslyn\csc.rsp
+D:\proyectos visual estudio\algebra\bin\roslyn\csi.exe
+D:\proyectos visual estudio\algebra\bin\roslyn\csi.exe.config
+D:\proyectos visual estudio\algebra\bin\roslyn\csi.rsp
+D:\proyectos visual estudio\algebra\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\proyectos visual estudio\algebra\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\Microsoft.Managed.Core.targets
+D:\proyectos visual estudio\algebra\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\proyectos visual estudio\algebra\bin\roslyn\System.AppContext.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\System.Collections.Immutable.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\System.Console.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\System.IO.Compression.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\System.IO.FileSystem.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\System.IO.Pipes.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\System.Reflection.Metadata.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\System.Security.AccessControl.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\System.Security.Claims.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\System.Security.Principal.Windows.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\System.ValueTuple.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\System.Xml.XmlDocument.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\System.Xml.XPath.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\proyectos visual estudio\algebra\bin\roslyn\vbc.exe
+D:\proyectos visual estudio\algebra\bin\roslyn\vbc.exe.config
+D:\proyectos visual estudio\algebra\bin\roslyn\vbc.rsp
+D:\proyectos visual estudio\algebra\bin\roslyn\VBCSCompiler.exe
+D:\proyectos visual estudio\algebra\bin\roslyn\VBCSCompiler.exe.config
+D:\proyectos visual estudio\algebra\bin\Antlr3.Runtime.dll
+D:\proyectos visual estudio\algebra\bin\AspNet.ScriptManager.bootstrap.dll
+D:\proyectos visual estudio\algebra\bin\AspNet.ScriptManager.jQuery.dll
+D:\proyectos visual estudio\algebra\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\proyectos visual estudio\algebra\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\proyectos visual estudio\algebra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\proyectos visual estudio\algebra\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\proyectos visual estudio\algebra\bin\Microsoft.ScriptManager.WebForms.dll
+D:\proyectos visual estudio\algebra\bin\Microsoft.Web.Infrastructure.dll
+D:\proyectos visual estudio\algebra\bin\Newtonsoft.Json.dll
+D:\proyectos visual estudio\algebra\bin\System.Web.Optimization.dll
+D:\proyectos visual estudio\algebra\bin\WebGrease.dll
+D:\proyectos visual estudio\algebra\bin\System.Web.Optimization.xml
+D:\proyectos visual estudio\algebra\bin\Newtonsoft.Json.xml
+D:\proyectos visual estudio\algebra\bin\Antlr3.Runtime.pdb
+D:\proyectos visual estudio\algebra\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\proyectos visual estudio\algebra\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\proyectos visual estudio\algebra\bin\es\System.Web.Optimization.resources.dll
+D:\proyectos visual estudio\algebra\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\proyectos visual estudio\algebra\obj\Debug\algebra.csproj.AssemblyReference.cache
+D:\proyectos visual estudio\algebra\obj\Debug\algebra.csproj.CoreCompileInputs.cache
+D:\proyectos visual estudio\algebra\obj\Debug\algebra.csproj.CopyComplete
+D:\proyectos visual estudio\algebra\obj\Debug\algebra.dll
+D:\proyectos visual estudio\algebra\obj\Debug\algebra.pdb
